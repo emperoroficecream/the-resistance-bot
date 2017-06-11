@@ -1,0 +1,11 @@
+{
+  "name": "resistance-bot",
+  "version": "1.0.0",
+  "description": "A generic chat bot that lets you play the resistance game on any instant messaging platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kat Zhang <arcadychang@gmail.com>",
+  "license": "ISC"
+}
