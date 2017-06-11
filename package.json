@@ -4,8 +4,13 @@
   "description": "A generic chat bot that lets you play the resistance game on any instant messaging platform",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index.js",
+    "test": "mocha"
   },
-  "author": "Kat Zhang <arcadychang@gmail.com>",
-  "license": "ISC"
+  "author": "emperoroficecream <ebisu1922@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "mock-stdin": "^0.3.1"
+  }
 }
